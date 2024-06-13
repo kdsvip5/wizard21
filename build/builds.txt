@@ -4,7 +4,7 @@ zip="url.to.wizard"
 
 name="eminence kodi v21"
 version="1.0"
-url="https://www.dropbox.com/scl/fi/y0s65pdqyho16u3sp7fbn/kdsvipv13062024.zip?rlkey=e3nro8wr5gl91tu5g9795i1e9&st=hmef2ew1&dl=1"
+url="https://www.dropbox.com/scl/fi/gokv91yjf1aru0xjgrldh/kdsvip14062024.zip?rlkey=t1rxzv6dw7e37cuobyg1jrfzf&st=9q3ljhvh&dl=1"
 minor="http://"
 gui="url.to.guisettings"
 kodi="21"
@@ -14,7 +14,7 @@ fanart="https://ia601401.us.archive.org/35/items/plugin.program.openwizard-maste
 preview="https://www.youtube.com/watch?v=djV11Xbc914"
 adult="no"
 info="url.to.info"
-description="תודה לתומכים היקרים עדכון תוספת סדרות קוריאניות תאריך עדכון 07/06/2024"
+description="עדכון מעטפת ועיצוב חדש תודה למעצב החדש שלנו !KDSVIP KING WORLD UPDATE 14/06/2024"
 
 name="eminence kodi v20"
 version="1.0"
