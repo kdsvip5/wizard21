@@ -14,7 +14,7 @@ fanart="https://ia601401.us.archive.org/35/items/plugin.program.openwizard-maste
 preview="https://www.youtube.com/watch?v=djV11Xbc914"
 adult="no"
 info="url.to.info"
-description="עדכון מעטפת ועיצוב חדש תודה למעצב החדש שלנו !KDSVIP KING WORLD UPDATE 14/06/2024"
+description="עדכון מעטפת ועיצוב חדש תודה למעצב החדש שלנו !KDSVIP KING WORLD UPDATE 26/06/2024"
 
 name="eminence kodi v20"
 version="1.0"
