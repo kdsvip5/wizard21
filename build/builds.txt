@@ -4,7 +4,7 @@ zip="url.to.wizard"
 
 name="eminence kodi v21"
 version="1.0"
-url="https://www.dropbox.com/scl/fi/mbf9k67dwzp4rp9hk07dl/KDSVIP26062024.zip?rlkey=y8gqbulxa67ge3fivkl6s4ngp&st=oq4iqk85&dl=1"
+url="https://www.dropbox.com/scl/fi/hur2ph7jprescd0enuj8m/KDSVIP26062024.zip?rlkey=eja2sookfpv7sbhrxbe1fcxdr&st=2nmn054i&dl=1"
 minor="http://"
 gui="url.to.guisettings"
 kodi="21"
