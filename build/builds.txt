@@ -18,7 +18,7 @@ description="עדכון קודי גרסאות כולם אותו דבר בכל ה
 
 name="eminence kodi v20"
 version="1.0"
-url=""
+url="https://www.dropbox.com/scl/fi/q2nb8ap2w8eho5xckv53p/enimce02072024.zip?rlkey=7fdeeousxrtybq10uaddl8p6d&st=zk6pv1q7&dl=1"
 minor="http://"
 gui="url.to.guisettings"
 kodi="20"
